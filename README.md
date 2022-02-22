@@ -1,6 +1,4 @@
-<h1 align="center"> ✩
-
-｡ﾟ･° ｡‧˚⋅ Welcome!</h1>
+<h1 align="center"> ·   .       .      .   . ✧Welcome!</h1>
 <h3 align="center">I am Beatriz.</h3>
 
 <div align="center">
