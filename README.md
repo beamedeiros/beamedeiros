@@ -1,4 +1,4 @@
-<h1 align="center"> ✩
+<h1 align="left"> ✩
 
 ｡ﾟ･° ｡‧˚⋅ Welcome!</h1>
 <h3 align="center">I am Beatriz.</h3>
