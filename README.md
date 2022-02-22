@@ -1,4 +1,5 @@
-### Hi, my name is Beatriz!
+<h1 align="center"> Welcome!</h1>
+<h3 align="center">I am Beatriz.</h3>
 
 <div align="center">
   <a href="https://github.com/beamedeiros">
