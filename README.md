@@ -1,4 +1,6 @@
-<h1 align="center"> Welcome!</h1>
+<h1 align="center"> ✩
+
+｡ﾟ･° ｡‧˚⋅ Welcome!</h1>
 <h3 align="center">I am Beatriz.</h3>
 
 <div align="center">
@@ -14,7 +16,7 @@
   <img align="center" alt="Bea-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bea-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bea-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/594626238333845528/898366421585788968/Bea-pic.gif">
+  <img align="right" alt="Bea-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/594626238333845528/898366421585788968/Bea-pic.gif">
 
 </div>
   
