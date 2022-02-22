@@ -8,7 +8,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h6> ☇ Socials. </h6>
+  <h5> ☇ Socials. </h5>
    <a href="https://www.youtube.com/channel/UC0SmUwRztmQxOm031DioBWQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/beahtrizs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:biamedeirosassim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -19,7 +19,7 @@
   ##
   
  <div style="display: inline_block">
-   <h6> ☇ Languages. </h6>
+   <h5> ☇ Languages. </h5>
   <img align="center" alt="Bea-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bea-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Bea-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
