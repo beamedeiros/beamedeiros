@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/beatriz-medeiros-a98396202/" target="_blank"><img height='50' src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494498.png?token=exp=1645561615~hmac=2250a0c98a5c259be0a20e92d57c773c" target="_blank"></a>  
   <a href="https://www.pinterest.se/anbhdbaby/_saved/" target="_blank"><img height='50' src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670251.png?token=exp=1645562068~hmac=39b83c1671919d16f972d8bb2895f4bf" target="_blank"></a>  
   <a href="https://open.spotify.com/collection/playlists" target="_blank"><img height='50' src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670145.png?token=exp=1645562160~hmac=eca537c7882e31c6fccb52d289475f6e" target="_blank"></a>  
-  <img align="right" alt="Bea-pic" height="175" style="border-radius:50px;" src="https://media.discordapp.net/attachments/784174153506488330/945687781185843240/PicsArt_02-22-11.16.25.png?width=603&height=603">
+  <a href="https://www.instagram.com/p/COS9sMzhY7l/" target="_blank"><img align="right" alt="Bea-pic" height="175" style="border-radius:50px;" src="https://media.discordapp.net/attachments/784174153506488330/945687781185843240/PicsArt_02-22-11.16.25.png?width=603&height=603" target="_blank"></a>  
 </div>
   
   ##
