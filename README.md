@@ -10,7 +10,7 @@
 <div style="display: inline_block"><br>
   <h5> ☇ Socials. </h5>
    <a href="https://www.youtube.com/channel/UC0SmUwRztmQxOm031DioBWQ" target="_blank"><img height='50'src="https://cdn-icons-png.flaticon.com/512/185/185983.png" target="_blank"></a>
-  <a href="https://instagram.com/beahtrizs" target="_blank"><img height='50' src="![image](https://user-images.githubusercontent.com/74321890/155368366-468ff427-feca-4fc0-a740-b39550bfbbc0.png)" target="_blank"></a>
+  <a href="https://instagram.com/beahtrizs" target="_blank"><img height='50' src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670125.png?token=exp=1645636263~hmac=1a47f60aef7293c51c4050f5a6d396e8" target="_blank"></a>
   <a href = "mailto:biamedeirosassim@gmail.com"><img height='50' src="https://cdn-icons-png.flaticon.com/512/270/270021.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatriz-medeiros-a98396202/" target="_blank"><img height='50' src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494498.png?token=exp=1645561615~hmac=2250a0c98a5c259be0a20e92d57c773c" target="_blank"></a>  
   <a href="https://www.pinterest.se/anbhdbaby/_saved/" target="_blank"><img height='50' src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670251.png?token=exp=1645562068~hmac=39b83c1671919d16f972d8bb2895f4bf" target="_blank"></a>  
