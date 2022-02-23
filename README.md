@@ -9,7 +9,7 @@
 
 <div style="display: inline_block"><br>
   <h5> ☇ Socials. </h5>
-   <a href="https://www.youtube.com/channel/UC0SmUwRztmQxOm031DioBWQ" target="_blank"><img height='50'src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494487.png?token=exp=1645561580~hmac=519f4b57f80d9372fc58a45231919f54" target="_blank"></a>
+   <a href="https://www.youtube.com/channel/UC0SmUwRztmQxOm031DioBWQ" target="_blank"><img height='50'src="https://cdn-icons-png.flaticon.com/512/185/185983.png" target="_blank"></a>
   <a href="https://instagram.com/beahtrizs" target="_blank"><img height='50' src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494489.png?token=exp=1645561613~hmac=949159aa10f40c9ff47f6fa69632b5fc" target="_blank"></a>
   <a href = "mailto:biamedeirosassim@gmail.com"><img height='50' src="https://cdn-icons-png.flaticon.com/512/270/270021.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatriz-medeiros-a98396202/" target="_blank"><img height='50' src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494498.png?token=exp=1645561615~hmac=2250a0c98a5c259be0a20e92d57c773c" target="_blank"></a>  
